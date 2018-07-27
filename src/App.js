@@ -16,7 +16,7 @@ class App extends Component {
                  I know, I know.
             </h2>
             <p className="App-intro">
-                This website doesn't look much at right now, but this is just temporary while I work on a new one.
+                This website doesn't look much right now, but this is just temporary while I work on a new one.
             </p>
             <p className="App-intro">
                 I had to bring down my old website to move to a new home that does not allow the old technologies I used to build it.
