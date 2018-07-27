@@ -12,17 +12,17 @@ class App extends Component {
           <p>Software Engineer</p>
         </header>
         <div className="App-content">
-            <h1>
-                 Hello! I know, I know.
-            </h1>
+            <h2>
+                 I know, I know.
+            </h2>
             <p className="App-intro">
-                This website is not really much to look at right now, but this is just temporary while I work on a new one.
+                This website doesn't look much at right now, but this is just temporary while I work on a new one.
             </p>
             <p className="App-intro">
-                I had to bring down my old website to move to a new home (Github Pages) that does not allow the old technologies I used to build it (PHP).
+                I had to bring down my old website to move to a new home that does not allow the old technologies I used to build it.
             </p>
             <p className="App-footer">
-                Want more details? Geeky much? I'll write about it on my blog here: <a href="https://fullhacker.com">Full Hacker</a>.
+                Want more details? Geeky much?<br />I'll write about it soon on my blog: <a href="https://fullhacker.com">Full Hacker</a>.
             </p>
         </div>
       </div>
